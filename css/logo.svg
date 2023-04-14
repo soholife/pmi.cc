@@ -3,16 +3,16 @@
     <g id="组_9880" data-name="组 9880" transform="translate(-169 299)">
       <g id="logo_pmi" data-name="logo/pmi" transform="translate(-1207 1362.533)">
         <g id="Logo" transform="translate(0 0)">
-          <path id="Fill-1" d="M52.483,69A17.5,17.5,0,0,1,69.971,51.5H70V34H0V51.5A17.5,17.5,0,0,1,17.5,69V69A17.5,17.5,0,0,1,0,86.5V104H70V86.5A17.5,17.5,0,0,1,52.483,69.025Z" transform="translate(149.334 -34)" fill="#05bfe0" fill-rule="evenodd"/>
-          <path id="Fill-3" d="M67,36.99A35,35,0,0,0,32,2V72A35,35,0,0,0,67,37.01,35,35,0,0,0,102,72V2A35,35,0,0,0,67,36.99" transform="translate(42.667 -2)" fill="#ff610f" fill-rule="evenodd"/>
+          <path id="Fill-1" d="M52.483,69A17.5,17.5,0,0,1,69.971,51.5H70V34H0V51.5A17.5,17.5,0,0,1,17.5,69V69A17.5,17.5,0,0,1,0,86.5V104H70V86.5A17.5,17.5,0,0,1,52.483,69.025Z" transform="translate(149.334 -34)" fill-rule="evenodd"/>
+          <path id="Fill-3" d="M67,36.99A35,35,0,0,0,32,2V72A35,35,0,0,0,67,37.01,35,35,0,0,0,102,72V2A35,35,0,0,0,67,36.99" transform="translate(42.667 -2)" fill-rule="evenodd"/>
           <path id="Fill-5" d="M45.907,37H13.158V15.156H45.907a10.922,10.922,0,0,1,0,21.844ZM48.09,2.109C47.365,2.041,46.64,2,45.907,2H0V72H13.109V50.156h32.8a14.559,14.559,0,0,0,2.184-.109,24.049,24.049,0,0,0,0-47.908Z" transform="translate(0 -2)" fill-rule="evenodd"/>
-          <path id="Fill-7" d="M32,76V55L53,76Z" transform="translate(-109.001 -6)" fill="#4f17a8" fill-rule="evenodd"/>
-          <path id="Fill-9" d="M71.783,97.333,33,58.544V39L91.333,97.333Z" transform="translate(-107.668 -27.333)" fill="#4f17a8" fill-rule="evenodd"/>
-          <path id="Fill-11" d="M75,34V55L54,34Z" transform="translate(-79.668 -34)" fill="#4f17a8" fill-rule="evenodd"/>
-          <path id="Fill-13" d="M95.333,92.333,37,34H56.612L95.333,72.718Z" transform="translate(-102.334 -34)" fill="#4f17a8" fill-rule="evenodd"/>
+          <path id="Fill-7" d="M32,76V55L53,76Z" transform="translate(-109.001 -6)" fill-rule="evenodd"/>
+          <path id="Fill-9" d="M71.783,97.333,33,58.544V39L91.333,97.333Z" transform="translate(-107.668 -27.333)" fill-rule="evenodd"/>
+          <path id="Fill-11" d="M75,34V55L54,34Z" transform="translate(-79.668 -34)" fill-rule="evenodd"/>
+          <path id="Fill-13" d="M95.333,92.333,37,34H56.612L95.333,72.718Z" transform="translate(-102.334 -34)" fill-rule="evenodd"/>
         </g>
       </g>
     </g>
-    <text id="拍米网" transform="translate(-914.851 1721.033)" font-size="68" font-family="PingFangSC-Medium, PingFang SC" font-weight="500"><tspan x="-204" y="0">拍米网</tspan></text>
+    <text id="拍米铺" transform="translate(-914.851 1721.033)" font-size="68" font-family="PingFangSC-Medium, PingFang SC" font-weight="500"><tspan x="-204" y="0">拍米铺</tspan></text>
   </g>
 </svg>
