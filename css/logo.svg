@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560.15" height="95" viewBox="0 0 560.15 95">
+<svg xmlns="http://www.w3.org/2000/svg" width="538.15" height="95" viewBox="0 0 538.15 95">
   <g id="组_9887" data-name="组 9887" transform="translate(1453.001 -1649.033)">
     <g id="组_9880" data-name="组 9880" transform="translate(-169 299)">
       <g id="logo_pmi" data-name="logo/pmi" transform="translate(-1207 1362.533)">
@@ -13,22 +13,6 @@
         </g>
       </g>
     </g>
-    <text id="拍米网" transform="translate(-914.851 1721.033)" font-size="68" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-204" y="0">拍米网</tspan></text>
-    <g id="组_9885" data-name="组 9885" transform="translate(-58.851 -163.967)">
-      <g id="组_9882" data-name="组 9882" transform="translate(-99.334 463)">
-        <g id="logo_pmi-2" data-name="logo/pmi" transform="translate(-1207 1362.533)">
-          <g id="Logo-2" data-name="Logo" transform="translate(0 0)">
-            <path id="Fill-7-2" data-name="Fill-7" d="M32,76V55L53,76Z" transform="translate(192.001 -6)" fill-rule="evenodd"/>
-          </g>
-        </g>
-      </g>
-      <g id="组_9884" data-name="组 9884" transform="translate(76.666 463)">
-        <g id="logo_pmi-3" data-name="logo/pmi" transform="translate(-1207 1362.533)">
-          <g id="Logo-3" data-name="Logo" transform="translate(0 0)">
-            <path id="Fill-11-2" data-name="Fill-11" d="M75,34V55L54,34Z" transform="translate(221.334 -34)" fill-rule="evenodd"/>
-          </g>
-        </g>
-      </g>
-    </g>
+    <text id="拍米网" transform="translate(-914.851 1721.033)" font-size="68" font-family="PingFangSC-Medium, PingFang SC" font-weight="500"><tspan x="-204" y="0">拍米网</tspan></text>
   </g>
 </svg>
