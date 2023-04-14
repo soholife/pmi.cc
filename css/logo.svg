@@ -1,21 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120.667" height="33" viewBox="0 0 120.667 33">
-                            <g id="LOGO设计" transform="translate(-518.833 -1130.5)">
-                                <g id="MAIKE" transform="translate(518.833 1130.5)">
-                                    <path id="E" d="M0,33V27.667H16.333V33ZM0,19.167V13.833H9.667v5.333ZM0,5.333V0H16.333V5.333Z" transform="translate(53.167 0)"></path>
-                                    <path id="K" d="M5.258,33H0V31.572L7.68,16.5h0L0,1.425V0H5.259l8.407,16.5h0L5.258,33h0Z" transform="translate(50.167 33) rotate(180)"></path>
-                                    <rect id="I" width="5.333" height="33" transform="translate(28.167 0)"></rect>
-                                    <path id="A" d="M5.676,33H0L12.01,0V10.667h0V0h3.157V10.667H13.8L9.558,22.333h5.609v5.333H7.617L5.676,33h0Z" transform="translate(10)"></path>
-                                    <path id="M" d="M0,33V0H5.333V33ZM12.54,17.374l-7.206-8.9V0l9.335,11.527L12.54,17.374Z" transform="translate(0 0)"></path>
-                                </g>
-                                <g id="LAB" transform="translate(594.333 1143.5)">
-                                    <path id="A-2" data-name="A" d="M3.547,20H0L7.279,0V0H9.167V6.667H8.4L5.973,13.334H9.166v3.333H4.76L3.547,20h0Z" transform="translate(16 0)"></path>
-                                    <path id="L" d="M4.724,20H3.333V16.667H6L4.725,20h0ZM0,20V0H3.333V20Z" transform="translate(9)"></path>
-                                    <path id="_" data-name="「" d="M3.333,10V6.667H6.667V10ZM0,10V0H3.333V10Z" transform="translate(0 10)"></path>
-                                    <path id="_2" data-name="」" d="M3.333,10V3.333H0V0H6.667V10Z" transform="translate(38.5)"></path>
-                                    <path id="B" d="M0,20V16.667H5.333V11.333H0V8H4.833V3.333H0V0H4.833A3.333,3.333,0,0,1,8.167,3.333V8a3.324,3.324,0,0,1-.239,1.241,3.32,3.32,0,0,1,.739,2.093v5.333A3.333,3.333,0,0,1,5.333,20Z" transform="translate(27.5 0)"></path>
-                                </g>
-                                <text id="SINCE_2002" data-name="SINCE 2002" transform="translate(639.5 1134.5)" font-size="4" font-family="Orbitron-Bold, Orbitron" font-weight="700">
-                                    <tspan x="-28.376" y="0">SINCE 2002</tspan>
-                                </text>
-                            </g>
-                        </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="560.15" height="95" viewBox="0 0 560.15 95">
+  <g id="组_9887" data-name="组 9887" transform="translate(1453.001 -1649.033)">
+    <g id="组_9880" data-name="组 9880" transform="translate(-169 299)">
+      <g id="logo_pmi" data-name="logo/pmi" transform="translate(-1207 1362.533)">
+        <g id="Logo" transform="translate(0 0)">
+          <path id="Fill-1" d="M52.483,69A17.5,17.5,0,0,1,69.971,51.5H70V34H0V51.5A17.5,17.5,0,0,1,17.5,69V69A17.5,17.5,0,0,1,0,86.5V104H70V86.5A17.5,17.5,0,0,1,52.483,69.025Z" transform="translate(149.334 -34)" fill="#05bfe0" fill-rule="evenodd"/>
+          <path id="Fill-3" d="M67,36.99A35,35,0,0,0,32,2V72A35,35,0,0,0,67,37.01,35,35,0,0,0,102,72V2A35,35,0,0,0,67,36.99" transform="translate(42.667 -2)" fill="#ff610f" fill-rule="evenodd"/>
+          <path id="Fill-5" d="M45.907,37H13.158V15.156H45.907a10.922,10.922,0,0,1,0,21.844ZM48.09,2.109C47.365,2.041,46.64,2,45.907,2H0V72H13.109V50.156h32.8a14.559,14.559,0,0,0,2.184-.109,24.049,24.049,0,0,0,0-47.908Z" transform="translate(0 -2)" fill-rule="evenodd"/>
+          <path id="Fill-7" d="M32,76V55L53,76Z" transform="translate(-109.001 -6)" fill="#4f17a8" fill-rule="evenodd"/>
+          <path id="Fill-9" d="M71.783,97.333,33,58.544V39L91.333,97.333Z" transform="translate(-107.668 -27.333)" fill="#4f17a8" fill-rule="evenodd"/>
+          <path id="Fill-11" d="M75,34V55L54,34Z" transform="translate(-79.668 -34)" fill="#4f17a8" fill-rule="evenodd"/>
+          <path id="Fill-13" d="M95.333,92.333,37,34H56.612L95.333,72.718Z" transform="translate(-102.334 -34)" fill="#4f17a8" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <text id="拍米网" transform="translate(-914.851 1721.033)" font-size="68" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-204" y="0">拍米网</tspan></text>
+    <g id="组_9885" data-name="组 9885" transform="translate(-58.851 -163.967)">
+      <g id="组_9882" data-name="组 9882" transform="translate(-99.334 463)">
+        <g id="logo_pmi-2" data-name="logo/pmi" transform="translate(-1207 1362.533)">
+          <g id="Logo-2" data-name="Logo" transform="translate(0 0)">
+            <path id="Fill-7-2" data-name="Fill-7" d="M32,76V55L53,76Z" transform="translate(192.001 -6)" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_9884" data-name="组 9884" transform="translate(76.666 463)">
+        <g id="logo_pmi-3" data-name="logo/pmi" transform="translate(-1207 1362.533)">
+          <g id="Logo-3" data-name="Logo" transform="translate(0 0)">
+            <path id="Fill-11-2" data-name="Fill-11" d="M75,34V55L54,34Z" transform="translate(221.334 -34)" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
